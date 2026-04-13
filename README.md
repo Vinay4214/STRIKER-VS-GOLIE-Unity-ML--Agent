@@ -61,3 +61,4 @@ This soccer game is a Unity project using the ML-Agents toolkit. It is like a sm
 - After training, the agents get better at playing soccer by practicing again and again
 
 > In simple terms: the game is like teaching robot soccer players by giving them points for good moves and taking points for bad moves.
+<img width="533" height="374" alt="image" src="https://github.com/user-attachments/assets/cf2a1de5-2c64-4889-b70d-fcbfef22bbf3" />
